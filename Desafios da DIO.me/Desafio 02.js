@@ -23,4 +23,4 @@ function calcularPatente(vitorias, derrotas) {
 }
 
 let { saldoVitorias, patente } = calcularPatente(140, 35)
-console.log("O herói tem de saldo de " + saldoVitorias + " e está no nível de " + patente)
+console.log("O Herói tem de saldo de " + saldoVitorias + " e está no nível de " + patente + ".")
