@@ -21,6 +21,6 @@ function calcularPatente(vitorias, derrotas) {
     
     return { saldoVitorias, patente }
 }
-
+// Saída
 let { saldoVitorias, patente } = calcularPatente(140, 35)
 console.log("O Herói tem de saldo de " + saldoVitorias + " e está no nível de " + patente + ".")
