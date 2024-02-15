@@ -1,4 +1,4 @@
-//Desafio Classificador de nível de Herói
+// Desafio Classificador de nível de Herói
 
 let nomeHeroi = "Baiacu"
 let classeHeroi = "Knight"
@@ -24,5 +24,5 @@ if (xpHeroi < 1000) {
     patente = "Radiante";
 }
 
-//Mensagem
+// Saída
 console.log("O Herói de nome Dino, da classe " + classeHeroi + ", está na patente " + patente + ".")
